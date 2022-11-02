@@ -31,6 +31,9 @@ Please refer the below mentioned link
 
 - https://documenter.getpostman.com/view/19386538/2s8YRjqZ6s
 
+#Testing with Postman
+
+- Before checking the link in postman , kindly connect the mongodb first and then hit the api
 
 ## License
 
