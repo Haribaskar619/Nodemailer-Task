@@ -4,6 +4,7 @@ const connectDB = require("./config/database");
 const app = express();
 const dotenv = require("dotenv").config();
 const router = require("./routes/routes");
+const mongoose = require("mongoose");
 connectDB;
 
 
